@@ -1,0 +1,9 @@
+c:\users\iranc-c\documents\visual studio 2017\Projects\WebhookTest\WebhookTest\bin\Debug\netcoreapp1.1\WebhookTest.deps.json
+c:\users\iranc-c\documents\visual studio 2017\Projects\WebhookTest\WebhookTest\bin\Debug\netcoreapp1.1\WebhookTest.runtimeconfig.json
+c:\users\iranc-c\documents\visual studio 2017\Projects\WebhookTest\WebhookTest\bin\Debug\netcoreapp1.1\WebhookTest.runtimeconfig.dev.json
+c:\users\iranc-c\documents\visual studio 2017\Projects\WebhookTest\WebhookTest\obj\Debug\netcoreapp1.1\WebhookTest.csprojResolveAssemblyReference.cache
+c:\users\iranc-c\documents\visual studio 2017\Projects\WebhookTest\WebhookTest\obj\Debug\netcoreapp1.1\WebhookTest.AssemblyInfo.cs
+c:\users\iranc-c\documents\visual studio 2017\Projects\WebhookTest\WebhookTest\bin\Debug\netcoreapp1.1\WebhookTest.dll
+c:\users\iranc-c\documents\visual studio 2017\Projects\WebhookTest\WebhookTest\bin\Debug\netcoreapp1.1\WebhookTest.pdb
+c:\users\iranc-c\documents\visual studio 2017\Projects\WebhookTest\WebhookTest\obj\Debug\netcoreapp1.1\WebhookTest.dll
+c:\users\iranc-c\documents\visual studio 2017\Projects\WebhookTest\WebhookTest\obj\Debug\netcoreapp1.1\WebhookTest.pdb
